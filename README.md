@@ -10,6 +10,14 @@
 
 This dataset is only available from this repository (typeracer.csv).
 
+### Questions:
+
+What is the relationship between WPM and time?
+
+What is the relationship between WPM and accuracy by rank?
+
+Do Jacob's WPMs increase or decrease over the course of a typeracing session?
+
 ### A LIST OF AUTHORS:
 
 Sophia Soriano
